@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HTtXt/cXFpEqFxrWzWAq+eA3UZPvYKlQav0Vn8Tdd2s=",
+  "Source": "BookLendAPI",
+  "BasePath": "_content/BookLendAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
